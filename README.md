@@ -37,7 +37,7 @@ Applying data science and machine learning techniques to financial datasets for 
 Projects focused on the operationalization of machine learning models, including deployment, monitoring, and maintenance.
 
 - [Diabetes Prediction API](https://github.com/umutevren/diabetes-prediction-api) - Predicting diabetes using the Pima Indians Diabetes dataset with R and Plumber API for deployment.
-- [Automated ML Pipeline](https://github.com/yourusername/mlops-project2) - An automated ML pipeline which trains different models, tracks experiments using MLflow, serves predictions through a FastAPI endpoint, and handles the entire ML lifecycle in a structured way.
+- [Automated ML Pipeline](https://github.com/yourusername/mlops-project) - An automated ML pipeline which trains different models, tracks experiments using MLflow, serves predictions through a FastAPI endpoint, and handles the entire ML lifecycle in a structured way.
 - [Palmer Penguins MLOps Project](https://github.com/umutevren/palmerpenguins-final) - A complete MLOps pipeline in R, using the Palmer Penguins dataset to predict penguin sex based on various physical measurements. It showcases modern machine learning operations practices including model development, hyperparameter tuning, versioning, and deployment.
 
 ### 🤖 ML Projects
