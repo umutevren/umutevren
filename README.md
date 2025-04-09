@@ -52,4 +52,4 @@ Implementing machine learning algorithms and statistical methods from scratch to
 - [Principal Component Analysis (PCA) from Scratch](https://github.com/umutevren/pca-from-scratch) - This repository contains a comprehensive implementation of Principal Component Analysis (PCA) built from scratch in Python. The implementation includes various scaling options, variance explanation, data projection and reconstruction, outlier detection, and multiple visualization techniques.
 - [Neural Network from Scratch](https://github.com/umutevren/neutral-network-from-scratch) - This project implements a neural network from scratch using NumPy, with a focus on the MNIST dataset. It includes features like Adam optimizer, Categorical Cross Entropy loss function, mini-batch gradient descent, and comprehensive model evaluation visualizations.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutevren&layout=compact)
+
