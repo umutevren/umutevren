@@ -50,6 +50,7 @@ Machine learning applications and models developed to solve various real-world p
 
 - [Hyperparameter Optimization Comparison](https://github.com/umutevren/hyperparameter-optimization) - This project demonstrates different hyperparameter optimization techniques using scikit-learn's breast cancer dataset. It compares three different optimization methods: Grid Search CV, Random Search CV, and Optuna Optimization.
 - [Object Detection with YOLOv3](https://github.com/umutevren/yolo-object-recognition) - This project uses YOLOv3, a state-of-the-art object detection algorithm, to identify and locate objects in images.
+- [PyTorch Gradio Image Classifier](https://github.com/umutevren/pytorch-gradio-image-classifier) - a PyTorch-based image classification and clustering system with a Gradio web interface.
 
 ### 🔬 Methods from Scratch
 Implementing machine learning algorithms and statistical methods from scratch to deepen understanding of core concepts.
@@ -57,4 +58,5 @@ Implementing machine learning algorithms and statistical methods from scratch to
 - [Principal Component Analysis (PCA) from Scratch](https://github.com/umutevren/pca-from-scratch) - This repository contains a comprehensive implementation of Principal Component Analysis (PCA) built from scratch in Python. The implementation includes various scaling options, variance explanation, data projection and reconstruction, outlier detection, and multiple visualization techniques.
 - [Neural Network from Scratch](https://github.com/umutevren/neutral-network-from-scratch) - This project implements a neural network from scratch using NumPy, with a focus on the MNIST dataset. It includes features like Adam optimizer, Categorical Cross Entropy loss function, mini-batch gradient descent, and comprehensive model evaluation visualizations.
 
-
+###  Dataviz & Storytelling
+- [A Tale Of Three Climates](https://github.com/umutevren/a-tale-of-three-climates) - A data visualization project comparing daily temperature patterns across three distinct climates: Amsterdam, Tokyo, and Cape Town, focusing on the years 1995 and 2020 to observe long-term temperature changes.
