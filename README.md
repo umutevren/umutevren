@@ -60,3 +60,5 @@ Implementing machine learning algorithms and statistical methods from scratch to
 
 ###  Dataviz & Storytelling
 - [A Tale Of Three Climates](https://github.com/umutevren/a-tale-of-three-climates) - A data visualization project comparing daily temperature patterns across three distinct climates: Amsterdam, Tokyo, and Cape Town, focusing on the years 1995 and 2020 to observe long-term temperature changes.
+- [Animating Time: The Rhythm of Pixar's Productions](https://github.com/umutevren/animating_time_pixar) - This project dives into nearly three decades of Pixar's storytelling through the lens of time. Using R and the tidyverse ecosystem, I analyzed 27 Pixar films spanning from the groundbreaking "Toy Story" (1995) to recent releases, combining runtime data with both critical consensus  and audience reactions .
+
