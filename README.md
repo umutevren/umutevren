@@ -2,9 +2,19 @@
 
 I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utrecht University, the Netherlands.
 
-> 🚀 **Latest Release: Anti-Money Laundering Analysis**
-> 
-> [Umut's AML Project](https://umutaml.netlify.app/) This project presents a comprehensive anti-money laundering (AML) analysis using the SAML-D (Synthetic Anti-Money Laundering Dataset), a cutting-edge dataset developed by Oztas et al. and published in the 2023 IEEE International Conference on e-Business Engineering. The project employs advanced machine learning techniques including Random Forest, XGBoost, and ensemble methods to achieve a 94.2% detection rate while addressing critical data leakage issues. The interactive web-based dashboard showcases sophisticated visualization techniques including heatmaps, time series analysis, and geographic mapping across 13 countries and 7 payment methods, ultimately providing a production-ready framework for financial institutions to enhance their AML monitoring capabilities while maintaining regulatory compliance and operational efficiency.
+<div style="border:1px solid #d0d7de; padding:16px; border-radius:8px; background-color:#f6f8fa">
+  <h3>🚀 Latest Release: Anti-Money Laundering Analysis</h3>
+  <p>
+    <a href="https://umutaml.netlify.app/" target="_blank"><strong>Umut's AML Project</strong></a> — This project presents a comprehensive anti-money laundering (AML) analysis using the <em>SAML-D</em> (Synthetic Anti-Money Laundering Dataset), a cutting-edge dataset developed by Oztas et al. and published in the 2023 IEEE International Conference on e-Business Engineering.
+  </p>
+  <p>
+    The project employs advanced machine learning techniques including Random Forest, XGBoost, and ensemble methods to achieve a 94.2% detection rate while addressing critical data leakage issues.
+  </p>
+  <p>
+    The interactive web-based dashboard showcases sophisticated visualization techniques including heatmaps, time series analysis, and geographic mapping across 13 countries and 7 payment methods — ultimately providing a production-ready framework for financial institutions to enhance their AML monitoring capabilities while maintaining regulatory compliance and operational efficiency.
+  </p>
+</div>
+
 
 
 
