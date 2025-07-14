@@ -6,6 +6,9 @@ I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utre
 > 
 > [Umut's AML Project](https://umutaml.netlify.app/) This project presents a comprehensive anti-money laundering (AML) analysis using the SAML-D (Synthetic Anti-Money Laundering Dataset), a cutting-edge dataset developed by Oztas et al. and published in the 2023 IEEE International Conference on e-Business Engineering. The project employs advanced machine learning techniques including Random Forest, XGBoost, and ensemble methods to achieve a 94.2% detection rate while addressing critical data leakage issues. The interactive web-based dashboard showcases sophisticated visualization techniques including heatmaps, time series analysis, and geographic mapping across 13 countries and 7 payment methods, ultimately providing a production-ready framework for financial institutions to enhance their AML monitoring capabilities while maintaining regulatory compliance and operational efficiency.
 
+- **Proud project**: "Shame Network". I developed a website called [rezilsiniz.com](https://rezilsiniz.com/), targeting Turkish celebrities, influencers, and public figures who remained silent during a politically charged boycott movement. This movement, sparked by the arrest of Ekrem İmamoğlu in March 2025, escalated into a nationwide anti-government protest. The project was developed to reflect public frustration over their lack of solidarity.
+   - I built the website using TypeScript and JavaScript. I know it's not visually stunning yet. I'm still learning and improving my skills in these languages. But I'm hopeful it will get better with time!
+
 
 - 🌱 On the way of learning *Amazon Sagemaker* and  *Azure* 
 
