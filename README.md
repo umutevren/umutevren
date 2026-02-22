@@ -1,11 +1,20 @@
 ### Hi, I'm Umut - Data Scientist
 
-I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utrecht University, the Netherlands.
+I am a data professional with a Master's in Applied Data Science from Utrecht University and hands-on experience spanning machine learning engineering, analytics, and data visualization, with a solid command of cloud infrastructure (GCP, Azure, AWS) and the ability to build full web applications from scratch to bring insights directly to stakeholders.
 
+---
 
+### 🚀 Featured Project
 
+<a href="https://github.com/umutevren/drifto">
+  <img align="left" width="80" src="https://img.shields.io/badge/DRIFTO-8A2BE2?style=for-the-badge&logoColor=white" alt="DRIFTO" />
+</a>
 
-- 🌱 On the way of learning *Amazon Sagemaker* and  *Azure* 
+**[DRIFTO — Drift Vulnerability Analyzer for Production ML Models](https://github.com/umutevren/drifto)**
+
+A model-agnostic Python library that measures how much your model will break when a specific feature drifts. Unlike SHAP or LOFO, DRIFTO systematically perturbs each feature with noise, measures degradation, and produces a two-dimensional profile: how important the feature is **and** how fragile the model is to drift in that feature. Includes adversarial scenario simulation, sensitivity curves, and a drift-resilient retrainer.
+
+---
 
 - Programming languages : <br />
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -21,6 +30,7 @@ I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utre
 
 - Other : <br />
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -30,34 +40,44 @@ I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utre
    
 ## Projects
 
-### 🏦 Finance 
+### Finance 
 Applying data science and machine learning techniques to financial datasets for analysis, prediction, and optimization.
 
-- [Stock Market Analysis](https://github.com/umutevren/stock-market-analysis) - StockVision is an interactive dashboard that provides comprehensive stock market data visualization and analysis, including advanced price charts, technical indicators, volume tracking, and AI-powered forecasting models like moving averages, linear regression, and ARIMA, all presented in a clean, user-friendly interface.
-- [GDP Emission Dashboard](https://github.com/umutevren/gdp-emission-dashboard) - A comprehensive data visualization and analysis dashboard that explores the relationships between global GDP, population, and CO2 emissions from 1977 to 2022. The dashboard includes interactive visualizations, historical analysis, and a machine learning model for CO2 emissions prediction.
-- [Fraud Detection Pipeline](https://github.com/umutevren/Fraudulent-Financial-Transaction-Prediction) - A comprehensive fraud detection pipeline that uses advanced machine learning techniques to identify fraudulent financial transactions. It includes smart data loading, feature engineering, sophisticated model ensembling, and comprehensive visualizations to achieve high-performance fraud detection
+| Project | Description |
+|---------|-------------|
+| [Stock Market Analysis](https://github.com/umutevren/stock-market-analysis) | StockVision — an interactive dashboard with advanced price charts, technical indicators, volume tracking, and AI-powered forecasting (moving averages, linear regression, ARIMA). |
+| [GDP Emission Dashboard](https://github.com/umutevren/gdp-emission-dashboard) | Comprehensive visualization & analysis exploring relationships between global GDP, population, and CO₂ emissions (1977–2022), with an ML model for CO₂ prediction. |
+| [Fraud Detection Pipeline](https://github.com/umutevren/Fraudulent-Financial-Transaction-Prediction) | Advanced ML pipeline for identifying fraudulent financial transactions, featuring smart data loading, feature engineering, model ensembling, and detailed visualizations. |
 
-### 🚀 MLOps & Deployment
+### MLOps & Deployment
 Projects focused on the operationalization of machine learning models, including deployment, monitoring, and maintenance.
 
-- [Diabetes Prediction API](https://github.com/umutevren/diabetes-prediction-api) - Predicting diabetes using the Pima Indians Diabetes dataset with R and Plumber API for deployment.
-- [Automated ML Pipeline](https://github.com/umutevren/automated-ml-pipeline) - An automated ML pipeline which trains different models, tracks experiments using MLflow, serves predictions through a FastAPI endpoint, and handles the entire ML lifecycle in a structured way.
-- [Palmer Penguins MLOps Project](https://github.com/umutevren/palmerpenguins-final) - A complete MLOps pipeline in R, using the Palmer Penguins dataset to predict penguin sex based on various physical measurements. It showcases modern machine learning operations practices including model development, hyperparameter tuning, versioning, and deployment.
+| Project | Description |
+|---------|-------------|
+| [Diabetes Prediction API](https://github.com/umutevren/diabetes-prediction-api) | Predicting diabetes using the Pima Indians Diabetes dataset with R and Plumber API for deployment. |
+| [Automated ML Pipeline](https://github.com/umutevren/automated-ml-pipeline) | End-to-end pipeline that trains different models, tracks experiments with MLflow, and serves predictions through a FastAPI endpoint. |
+| [Palmer Penguins MLOps](https://github.com/umutevren/palmerpenguins-final) | Complete MLOps pipeline in R — model development, hyperparameter tuning, versioning, and deployment using the Palmer Penguins dataset. |
 
-### 🤖 ML Projects
+### ML Projects
 Machine learning applications and models developed to solve various real-world problems and datasets.
 
-- [Hyperparameter Optimization Comparison](https://github.com/umutevren/hyperparameter-optimization) - This project demonstrates different hyperparameter optimization techniques using scikit-learn's breast cancer dataset. It compares three different optimization methods: Grid Search CV, Random Search CV, and Optuna Optimization.
-- [Object Detection with YOLOv3](https://github.com/umutevren/yolo-object-recognition) - This project uses YOLOv3, a state-of-the-art object detection algorithm, to identify and locate objects in images.
-- [PyTorch Gradio Image Classifier](https://github.com/umutevren/pytorch-gradio-image-classifier) - a PyTorch-based image classification and clustering system with a Gradio web interface.
+| Project | Description |
+|---------|-------------|
+| [Hyperparameter Optimization](https://github.com/umutevren/hyperparameter-optimization) | Comparison of Grid Search CV, Random Search CV, and Optuna Optimization using scikit-learn's breast cancer dataset. |
+| [Object Detection with YOLOv3](https://github.com/umutevren/yolo-object-recognition) | Uses YOLOv3 to identify and locate objects in images. |
+| [PyTorch Gradio Image Classifier](https://github.com/umutevren/pytorch-gradio-image-classifier) | PyTorch-based image classification and clustering system with a Gradio web interface. |
 
-### 🔬 Methods from Scratch
+### Methods from Scratch
 Implementing machine learning algorithms and statistical methods from scratch to deepen understanding of core concepts.
 
-- [Principal Component Analysis (PCA) from Scratch](https://github.com/umutevren/pca-from-scratch) - This repository contains a comprehensive implementation of Principal Component Analysis (PCA) built from scratch in Python. The implementation includes various scaling options, variance explanation, data projection and reconstruction, outlier detection, and multiple visualization techniques.
-- [Neural Network from Scratch](https://github.com/umutevren/neutral-network-from-scratch) - This project implements a neural network from scratch using NumPy, with a focus on the MNIST dataset. It includes features like Adam optimizer, Categorical Cross Entropy loss function, mini-batch gradient descent, and comprehensive model evaluation visualizations.
+| Project | Description |
+|---------|-------------|
+| [PCA from Scratch](https://github.com/umutevren/pca-from-scratch) | Comprehensive PCA implementation in Python with various scaling options, variance explanation, data projection/reconstruction, outlier detection, and visualizations. |
+| [Neural Network from Scratch](https://github.com/umutevren/neutral-network-from-scratch) | Neural network built with NumPy for MNIST — Adam optimizer, Categorical Cross Entropy, mini-batch gradient descent, and evaluation visualizations. |
 
-###  Dataviz & Storytelling
-- [A Tale Of Three Climates](https://github.com/umutevren/a-tale-of-three-climates) - A data visualization project comparing daily temperature patterns across three distinct climates: Amsterdam, Tokyo, and Cape Town, focusing on the years 1995 and 2020 to observe long-term temperature changes.
-- [Animating Time: The Rhythm of Pixar's Productions](https://github.com/umutevren/animating_time_pixar) - This project dives into nearly three decades of Pixar's storytelling through the lens of time. Using R and the tidyverse ecosystem, I analyzed 27 Pixar films spanning from the groundbreaking "Toy Story" (1995) to recent releases, combining runtime data with both critical consensus  and audience reactions .
+### Dataviz & Storytelling
 
+| Project | Description |
+|---------|-------------|
+| [A Tale Of Three Climates](https://github.com/umutevren/a-tale-of-three-climates) | Comparing daily temperature patterns across Amsterdam, Tokyo, and Cape Town (1995 vs 2020) to observe long-term temperature changes. |
+| [Animating Time: The Rhythm of Pixar](https://github.com/umutevren/animating_time_pixar) | Analyzing nearly three decades of Pixar's storytelling through runtime data combined with critical consensus and audience reactions, using R and the tidyverse. |
